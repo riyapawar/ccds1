@@ -1,7 +1,6 @@
 import git
 import os
 import pandas as pd
-import pandasql as ps
 import array as arr
 
 acct = ['ltkhang', 'nttdots', 'samvid25', 'AlphaDelta']
